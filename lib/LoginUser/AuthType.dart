@@ -1,0 +1,3 @@
+  enum AuthType {
+  login , register
+}
