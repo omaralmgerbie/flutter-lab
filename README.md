@@ -1,14 +1,10 @@
-# Flutter Lab Project
+# Flutter Login Page UI
 
-In this project, you are required to fork this repository and create a flutter application with these features.
+## [Watch it on YouTube](https://youtu.be/PMcXhYmFFN4)
 
+Mobile app Minimal Auth Screen with Flutter.
+Contains - Login & Register Page
 
-#### Project Functional Requirements 
-must have. 
+### Preview
 
-* connection with an online REST API.
-* one of firebase implementations (auth-firestore-storage).
-* local cashing or local database.
-
-for each requirement, you have 3 points if you implement all 3 you'll get full marks.
-
+![App UI](/preview.png)
