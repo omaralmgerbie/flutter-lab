@@ -1,14 +1,33 @@
-# Flutter Lab Project
+# login_signup_screen
 
-In this project, you are required to fork this repository and create a flutter application with these features.
+Login, Signup and Welcome screen UI design in Flutter 
+
+## [Watch it on YouTube](https://www.youtube.com/watch?v=iUG_2gwNNn4)
 
 
-#### Project Functional Requirements 
-must have. 
+![App UI](AppImages/intro.jpg)
+ 
 
-* connection with an online REST API.
-* one of firebase implementations (auth-firestore-storage).
-* local cashing or local database.
 
-for each requirement, you have 3 points if you implement all 3 you'll get full marks.
+ 
 
+Happy Learning 👍
+
+<br>
+ 
+Subscribe Now! <a href="https://www.youtube.com/channel/UCknAgO0AdG61Yd1G7D1Arxg">BackSlash Flutter YouTube Channel</a>
+Show some :heart: and star the repo to support the project
+
+[![GitHub stars](https://img.shields.io/github/stars/backslashflutter/userlocation-flutter.svg?style=social&label=Star)](https://github.com/backslashflutter/userlocation-flutter) [![GitHub forks](https://img.shields.io/github/forks/backslashflutter/userlocation-flutter.svg?style=social&label=Fork)](https://github.com/backslashflutter/userlocation-flutter/fork) [![GitHub watchers](https://img.shields.io/github/watchers/backslashflutter/userlocation-flutter.svg?style=social&label=Watch)](https://github.com/backslashflutter/userlocation-flutter) [![GitHub followers](https://img.shields.io/github/followers/backslashflutter.svg?style=social&label=Follow)](https://github.com/backslashflutter/userlocation-flutter)
+[![Reddit Follow](https://img.shields.io/reddit/user-karma/link/backslashflutter?style=social)](https://www.reddit.com/user/backslashflutter)
+
+
+<h3>Stay Healthy!✨Stay Safe!🖖</h3>
+ 
+
+## Note
+ I do not own any of the images used in this project.
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
