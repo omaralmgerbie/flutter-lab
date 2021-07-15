@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681048591932",
+    "project_id": "flutterlab-dfa25",
+    "storage_bucket": "flutterlab-dfa25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681048591932:android:f25d112eea0311990a3d39",
+        "android_client_info": {
+          "package_name": "com.example.lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681048591932-ie1q17rsp7vqks616effu034726na53f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiOZjAw_N2-ezQy3nYuUXHjYd5fZIX1sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681048591932-ie1q17rsp7vqks616effu034726na53f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
