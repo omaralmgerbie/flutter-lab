@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349197640764",
+    "project_id": "first-app-fa319",
+    "storage_bucket": "first-app-fa319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349197640764:android:a787e37c7938646ef94f39",
+        "android_client_info": {
+          "package_name": "com.example.coffee_shop_flutter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349197640764-h196nscanbqfde06nuc1gc564mpcpd39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCXkzwg0mpbnzKIaTBpbdXafBItZkfyRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349197640764-h196nscanbqfde06nuc1gc564mpcpd39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
