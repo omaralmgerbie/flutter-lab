@@ -1,6 +1,6 @@
-# coffee_shop_flutter_project
+# a_apro
 
-A new Flutter application.
+A new Flutter project.
 
 ## Getting Started
 
